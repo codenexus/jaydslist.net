@@ -8,7 +8,7 @@ import { ProfileComponent } from './profile/profile.component';
 import * as Sentry from '@sentry/browser';
 
 Sentry.init({
-  dsn: "https://3459dccd71e243d99ed3d9d87b024c54@sentry.io/1850307"
+  dsn: "https://cdbdbc38e03841e181390b7e1dc92235@sentry.io/1850414"
 });
 
 Injectable()
